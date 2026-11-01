@@ -1,0 +1,11 @@
+# ADNI data must never be committed (ADNI Data Use Agreement)
+data/
+*.csv
+*.rda
+*.RData
+*.rds
+*.xlsx
+# R / OS
+.Rhistory
+.Rproj.user/
+.DS_Store
